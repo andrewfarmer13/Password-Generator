@@ -15,11 +15,11 @@ I worked on this project for two main reasons:
   
 ## What Did I Learn
 
-  1.) How to manipulate strings in Java
-  2.) Refreshed on how to work with the WindowBuilder 
+  1. How to manipulate strings in Java
+  2. Refreshed on how to work with the WindowBuilder 
  
 ## Things I Will Add
 
-  1.) More customization options for passwords
-  2.) Better Error Handling
-  3.) A way to check that the password has not been generated in the last 10 cycles
+  1. More customization options for passwords
+  2. Better Error Handling
+  3. A way to check that the password has not been generated in the last 10 cycles
