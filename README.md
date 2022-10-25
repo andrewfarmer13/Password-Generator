@@ -20,5 +20,6 @@ I worked on this project for two main reasons:
  
 ## Things I Will Add
 
-  1.) More customization options
+  1.) More customization options for passwords
   2.) Better Error Handling
+  3.) A way to check that the password has not been generated in the last 10 cycles
