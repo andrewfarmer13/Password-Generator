@@ -10,8 +10,8 @@ Password Generator written in Java in the Eclipse IDE.
 ## Why
 
 I worked on this project for two main reasons:
-  1.) My friend kept reusing the same password and wanted a way to create new ones without thinking
-  2.) It sounded like a fun project
+  1. My friend kept reusing the same password and wanted a way to create new ones without thinking
+  2. It sounded like a fun project
   
 ## What Did I Learn
 
