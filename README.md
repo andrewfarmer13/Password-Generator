@@ -16,7 +16,8 @@ I worked on this project for two main reasons:
 ## What Did I Learn
 
   1. How to manipulate strings in Java
-  2. Refreshed on how to work with the WindowBuilder 
+  2. Refreshed on how to work with the WindowBuilder
+  3. How to create a runable jar file
  
 ## Things I Will Add
 
